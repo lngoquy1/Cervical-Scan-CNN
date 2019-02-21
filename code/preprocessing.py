@@ -7,7 +7,6 @@ from sklearn import mixture
 from sklearn.utils import shuffle
 from skimage import measure
 from glob import glob
-import seaborn as sns
 import os
 from numpy import sqrt, histogram
 np.random.seed(123)
