@@ -2,7 +2,6 @@ from time import time
 import sys
 import matplotlib.pyplot as plt
 import numpy as np
-import pandas as pd
 import cv2
 import math
 from glob import glob
